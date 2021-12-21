@@ -45,6 +45,7 @@ namespace P11TablicaTablic
                 Console.WriteLine(string.Join(" ",w));
                       
             Console.ReadKey();
+            //https://github.com/tomasz-trener/08DDzien2
         }
     }
 }

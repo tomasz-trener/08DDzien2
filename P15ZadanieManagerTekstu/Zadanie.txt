@@ -1,0 +1,7 @@
+﻿
+Stwóz klasę "ManagerTekstu", która pozwala na 
+
+wczytanie dowolnego zdania np: Ala ma kota
+zwraca najdłuższy wyraz 
+
+W przypadku, gdy zdanie nie zaweira rzadnego wyrazu, kmetoda rzuca błędem 
