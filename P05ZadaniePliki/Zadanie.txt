@@ -1,0 +1,10 @@
+﻿
+
+Stwórz program "wyszukiwarka"
+
+który wcztuje z konosli sciezkę do pliku
+następnie wcztruje dowolny wyraz
+
+następnie wyświetla wzystkie zdania, które zawierają podany wyraz.
+
+po wyświetleniu program ponownie oczekuje podania kolejnego wyrazu i tak dalej... (w nieskończonej pętli)
